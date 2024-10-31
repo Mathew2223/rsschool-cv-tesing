@@ -18,7 +18,7 @@ I dont know any language. <br>
 * __I'm a little lazy, well, you understand what I wanted__
 
 ___
-### 5.
+5.
 * This is my code:
 ```
 const number = '+79127063203';
