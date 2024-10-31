@@ -5,7 +5,7 @@ ____2. My email:____ <br> ___sitnikovmatvey2008@gmail.com___
 <br> ____My number:____ <br> ___+79127063203___
 
 * * * * *
-## 3. My strength: right, since I'm right-handed. I want to develop my soft skills
+3. My strength: right, since I'm right-handed. I want to develop my soft skills
 
 ___
 
